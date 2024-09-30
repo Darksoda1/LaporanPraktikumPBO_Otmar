@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.otmar_project1;
+
+/**
+ *
+ * @author User
+ */
+public class Otmar_Project1 {
+
+    public static void main(String[] args) {
+        String nama = "Otmar Shah Adam";
+        String npm = "2330506058";
+        String alamat = "Magelang";
+        String noHp = "082138602495";
+        
+        System.out.println("Nama : " + nama);
+        System.out.println("NPM : " + npm);
+        System.out.println("Alamat : " + alamat);
+        System.out.println("NOHP : " + noHp);
+    }
+}
